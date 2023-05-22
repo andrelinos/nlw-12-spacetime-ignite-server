@@ -64,18 +64,18 @@ Para mais detalhes e entender melhor as funcionalidades e a estrutura completa d
 
 ## :sparkles: Funcionalidades ##
 
-[x] Listar e visualizar memórias(eventos) salvas;\
-[x] Inserir novas memórias;\
-[x] Acesso autenticado;\
-[ ] Visualizar memórias únicas;\
-[ ] Inserir data e hora específicas para uma memória;\
-[ ] Editar memórias salvas;\
-[ ] Remover memórias;\
-[ ] Buscar por memórias com base no título ou data;\
-[ ] Link para compartilhar memórias;\
-[ ] Curtir uma memória;\
-[ ] Se inscrever para receber novas memórias;\
-[ ] Bloquear memória para alguns usuários;
+- [x] Listar e visualizar memórias(eventos) salvas;\
+- [x] Inserir novas memórias;\
+- [x] Acesso autenticado;\
+- [ ] Visualizar memórias únicas;\
+- [ ] Inserir data e hora específicas para uma memória;\
+- [ ] Editar memórias salvas;\
+- [ ] Remover memórias;\
+- [ ] Buscar por memórias com base no título ou data;\
+- [ ] Link para compartilhar memórias;\
+- [ ] Curtir uma memória;\
+- [ ] Se inscrever para receber novas memórias;\
+- [ ] Bloquear memória para alguns usuários;
 
 ## :rocket: Tecnologias ##
 
@@ -84,6 +84,7 @@ Para mais detalhes e entender melhor as funcionalidades e a estrutura completa d
 - [TypeScript](https://www.typescriptlang.org/)
 - [Prisma](https://www.prisma.io/)
 - [JWT](https://jwt.io/)
+- [axios](https://axios-http.com/)
 
 ## :white_check_mark: Requisitos ##
 
@@ -109,6 +110,8 @@ $ npm run dev
 
 # O servidor estará disponível em: <http://localhost:3333>
 ```
+
+**Nota**: Você deverá adicionar ao seu arquivo .env as informações necessárias para que a aplicação funcione corretamente seguindo o padrão do arquivo .env.example.
 
 ## :memo: Licença ##
 
