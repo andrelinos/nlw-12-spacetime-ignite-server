@@ -2,33 +2,36 @@
   <img src="./.github/print.png" alt="Server" />
 
   &#xa0;
-
-  <!-- <a href="https://server.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">NLW 13 - Spacetime - api</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/andrelinos/server?color=56BEB8">
+  <img src="https://img.shields.io/static/v1?label=NLW-12&message=Spacetime&color=8257e5&labelColor=202024" alt="Andrelino Silva" />
+  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
+</p>
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/andrelinos/server?color=56BEB8">
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/andrelinos/nlw-12-spacetime-ignite-server?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/andrelinos/server?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/andrelinos/nlw-12-spacetime-ignite-server?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/andrelinos/server?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/andrelinos/nlw-12-spacetime-ignite-server?color=56BEB8">
+
+  <img alt="License" src="https://img.shields.io/github/license/andrelinos/nlw-12-spacetime-ignite-server?color=56BEB8">
 
 </p>
 
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#balloon-sobre">Sobre</a> &#xa0; | &#xa0;
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/andrelinos" target="_blank">Author</a>
+  <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
+  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requisitos">Requisitos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-iniciando">Iniciando</a> &#xa0; | &#xa0;
+  <a href="#memo-licen%C3%A7a">Licença</a> &#xa0; | &#xa0;
+  <a href="https://andrelino.dev" target="_blank">Autor</a>
 </p>
 
 <br>
@@ -110,6 +113,10 @@ $ npm run dev
 ## :memo: Licença ##
 
 Este projeto está sob a licença MIT. Para mais detalhes acesse [LICENSE](LICENSE)
+
+<p align="center">
+  <img alt="Andrelino Silva" src="https://avatars.githubusercontent.com/u/35929943?v=4" width="100px" />
+</p>
 
 Feito com :heart: por <a href="https://andrelino.dev" target="_blank">Andrelino Silva</a>
 
