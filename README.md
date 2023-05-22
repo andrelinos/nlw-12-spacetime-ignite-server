@@ -93,7 +93,7 @@ Antes de iniciar, você precisa ter instalado em seu sistema o [Git](https://git
 
 ```bash
 # Clone o repositório principal
-$ git clone https://github.com/andrelinos/server
+$ git clone https://github.com/andrelinos/nlw-12-spacetime-ignite-server
 
 # Acessa a pasta
 $ cd server
